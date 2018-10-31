@@ -1,0 +1,20 @@
+.container{
+  height: calc(100vh - 200px);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 45px;
+}
+.container h1{
+  text-align: center;
+}
+.col{
+  flex-direction: column;
+}
+.row{
+  flex-direction: row;
+}
+#map{
+  height: 400px;
+  width: 1400px;
+}
