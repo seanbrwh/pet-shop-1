@@ -50,7 +50,7 @@
         });       
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVvaLfYBzRObPNXochmDIBD-w9IsBrc00&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=callback=initMap"
     async defer></script>
 </body>
 </html>
